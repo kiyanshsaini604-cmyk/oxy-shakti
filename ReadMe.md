@@ -79,21 +79,6 @@ Sui Blockchain
 Emergency Dashboard
 ```
 
----
-
-# 📱 Dashboard Preview
-
-## Threat Analysis
-![Threat Analysis](assets/screenshots/threat-analysis.jpg)
-
-## Blockchain Logs
-![Blockchain Logs](assets/screenshots/blockchain-logs.jpg)
-
-## Telemetry Analytics
-![Telemetry Analytics](assets/screenshots/telemetry.jpg)
-
----
-
 # 🔥 AI Threat Detection
 
 Oxy Shakti continuously analyzes telemetry data including:
